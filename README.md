@@ -9,3 +9,4 @@ A collection of Swift and iOS articles. Each article is also published on [https
 | Swift: Copy on Write Automatic vs Manual | [Read](https://hudaios.hashnode.dev/swift-copy-on-write-automatic-vs-manual) |
 | Swift Performance: Stop Creating Intermediate Arrays with .lazy | [Read](https://hudaios.hashnode.dev/swift-performance-stop-creating-intermediate-arrays-with-lazy) |
 | Swift: High-Level Code, Zero Performance Cost | [Read](https://hudaios.hashnode.dev/swift-high-level-code-zero-performance-cost) |
+| Swift: The Function That Never Returns | [Read](https://hudaios.hashnode.dev/the-function-that-never-returns) |
